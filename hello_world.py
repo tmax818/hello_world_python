@@ -1,6 +1,6 @@
 your_code_here = None
 
-# 1. TASK: print "Hello World"
+# 1. TASK: print "Hello World
 print(your_code_here)
 # 2. print "Hello Noelle!" with the name in a variable
 name = "Noelle"
