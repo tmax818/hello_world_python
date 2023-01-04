@@ -1,6 +1,6 @@
 your_code_here = None
 
-# 1. TODO : print "Hello World
+# 1. TODO : print "Hello World"
 print(your_code_here)
 # 2. TODO print "Hello Noelle!" with the name in a variable
 name = "Noelle"
